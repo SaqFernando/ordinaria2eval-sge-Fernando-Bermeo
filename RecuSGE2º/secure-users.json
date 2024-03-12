@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "nombre": "juan garc\u00c3\u00ada",
+        "password": "4db592c50842289c931d1e0d6bf05e24d720914d0eb9cb1698ca223ab6cf1961"
+    },
+    {
+        "id": 2,
+        "nombre": "mar\u00c3\u00ada rodr\u00c3\u00adguez",
+        "password": "5ac0852e770506dcd80f1a36d20ba7878bf82244b836d9324593bd14bc56dcb5"
+    },
+    {
+        "id": 3,
+        "nombre": "carlos p\u00c3\u00a9rez",
+        "password": "34f8920649c9f12e718f090efcd7c60c6ea8c9838e468bce9582e0a03e36b4a1"
+    },
+    {
+        "id": 4,
+        "nombre": "laura mart\u00c3\u00adnez",
+        "password": "0240007618d1d4e8a8559c2ca6dd47a24f07945b9096cd447d78ee463c53b933"
+    },
+    {
+        "id": 5,
+        "nombre": "pedro s\u00c3\u00a1nchez",
+        "password": "24a5478b2a1e1d84eef7e80166cf810baeff19309fce540bc9809cc9486b9aff"
+    },
+    {
+        "id": 6,
+        "nombre": "ana gonz\u00c3\u00a1lez",
+        "password": "eb2d028fde9f3e24e4ee0c2f1701807b862cfdd0f6f5042607f5e4051d23cc02"
+    },
+    {
+        "id": 7,
+        "nombre": "javier l\u00c3\u00b3pez",
+        "password": "9b3c86d96107fbe7f25a082aeeb0adc53e8e4bff2a8a1ea3b42c6858524412d8"
+    },
+    {
+        "id": 8,
+        "nombre": "carmen fern\u00c3\u00a1ndez",
+        "password": "2c126fe97f108564123a2954dd55efecbed13add4d12a76d12d6d4bf718f91c2"
+    },
+    {
+        "id": 9,
+        "nombre": "david ruiz",
+        "password": "eefd069ce313d8556a9b503cefef2027defe98e5a3cea5973afc18f2ce82b076"
+    },
+    {
+        "id": 10,
+        "nombre": "sara moreno",
+        "password": "f5e096eb9d84bde91d6d80adc1edd14c4b79dc48b28721aece4f241173e84998"
+    },
+    {
+        "id": 11,
+        "nombre": "luisa herrera",
+        "password": "426d62516fad393a6772773b97d6dfb4938244e287379f7d7ef85019a3c0d24a"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "id": "juan garcía",
+        "password": "cibercafe22"
+    },
+    {
+        "id": "maría rodríguez",
+        "password": "clave123"
+    },
+    {
+        "id": "carlos pérez",
+        "password": "segur@123"
+    },
+    {
+        "id": "laura martínez",
+        "password": "martinez456"
+    },
+    {
+        "id": "pedro sánchez",
+        "password": "sanchez789"
+    },
+    {
+        "id": "ana gonzález",
+        "password": "gonzalezABC"
+    },
+    {
+        "id": "javier lópez",
+        "password": "lopezXYZ"
+    },
+    {
+        "id": "carmen fernández",
+        "password": "fernandez789"
+    },
+    {
+        "id": "david ruiz",
+        "password": "ruiz1234"
+    },
+    {
+        "id": "sara moreno",
+        "password": "moreno567"
+    },
+    {
+        "id": "luisa herrera",
+        "password": "herrera000"
+    }
+]
